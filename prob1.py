@@ -1,4 +1,4 @@
-# To Shift '0' At The End Of The Lst Without Touching Non Zero Number
+#### To Shift '0' At The End Of The Lst Without Touching Non Zero Number
 
 # lst = [0,1,3,0,4,5]
 # z_lst = []
