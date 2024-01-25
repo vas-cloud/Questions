@@ -1,0 +1,15 @@
+# Amrstrong Number
+
+n = int(input("Enter The Number:  "))
+nlst = list(map(int,str(n)))
+dig = len(nlst)
+sum = 0
+
+for i in nlst:
+    sum+=i**dig
+
+if sum == n:
+    print("ArmStrong Number")
+
+else:
+    print("Not A ArmStrong Number")
